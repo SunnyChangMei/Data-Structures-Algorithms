@@ -1,3 +1,3 @@
-# JavaScript Algorithm and Data Structures Masterclass
+# JavaScript Algorithms and Data Structures Masterclass
 
 https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
