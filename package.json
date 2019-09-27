@@ -1,7 +1,7 @@
 {
   "name": "js-algo-ds-masterclass",
   "version": "1.0.0",
-  "description": "https://www.udemy.com/js-algorithms-and-data-structures-masterclass/",
+  "description": "Algorithms and Data Structure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
